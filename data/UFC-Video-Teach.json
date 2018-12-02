@@ -1,0 +1,26 @@
+﻿[
+    {
+        "id": 1,
+        "rank": 100,
+        "mainImg":"/ufc-data/media/video/category/moment/UFC_Category_Video_Bags_ver1_Moment.jpg",
+        "url": "/ufc-data/media/video/category/UFC_Category_Video_Bags_ver1.mp4"
+    },
+    {
+        "id": 2,
+        "rank": 95,
+        "mainImg":"/ufc-data/media/video/category/moment/UFC_Category_Video_Bags_ver2_Moment.jpg",
+        "url": "/ufc-data/media/video/category/UFC_Category_Video_Bags_ver2.mp4"
+    },
+    {
+        "id": 3,
+        "rank": 90,
+        "mainImg":"/ufc-data/media/video/category/moment/UFC_Category_Video_Guard_Gears_ver1_Moment.jpg",
+        "url": "/ufc-data/media/video/category/UFC_Category_Video_Guard_Gears_ver1.mp4"
+    },
+    {
+        "id": 4,
+        "rank": 85,
+        "mainImg":"/ufc-data/media/video/category/moment/UFC_Category_Video_Guard_Gears_ver2_Moment.jpg",
+        "url": "/ufc-data/media/video/category/UFC_Category_Video_Guard_Gears_ver2.mp4"
+    }
+]

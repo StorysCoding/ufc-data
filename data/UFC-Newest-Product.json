@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "mainImg": "/ufc-data/media/html/newest-product/image/1_1.png",
+        "rank": 100,
+        "title": "UFC产品 | 拳套系列",
+        "sortDesc": "UFC手套，官方指定产品，强调拳手的舒适性及安全性",
+        "url": "/ufc-data/media/html/newest-product/1.html"
+    },
+    {
+        "id": 2,
+        "mainImg": "/ufc-data/media/html/newest-product/image/2_1.png",
+        "rank": 100,
+        "title": "UFC产品 | 护具系列",
+        "sortDesc": "UFC护具，官方指定产品，强调拳手的保护性及安全性",
+        "url": "/ufc-data/media/html/newest-product/2.html"
+    }
+]

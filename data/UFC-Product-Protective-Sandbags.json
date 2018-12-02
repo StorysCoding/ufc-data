@@ -1,0 +1,44 @@
+﻿[
+ {
+        "id": 11,
+        "mainImg": "/ufc-data/media/images/product/protective/11/1.jpg",
+        "rank": 445,
+        "title": "UFC Contender Long Curved Focus Mitt",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "“1/2”（12毫米）罩在手指上以增加保护，无论踢还是拳",
+            "符合人体工程学设计，快速提升准确性、敏捷性"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 12,
+        "mainImg": "/ufc-data/media/images/product/protective/12/1.jpg",
+        "rank": 440,
+        "title": "UFC Contender Curved Focus Mitt",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "提高精度与速度，半圆抓地力内侧有助于减少伤害",
+            "耐用的PU皮革，紧凑的发展速度和灵敏反应"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 13,
+        "mainImg": "/ufc-data/media/images/product/protective/13/1.jpg",
+        "rank": 435,
+        "title": "Muay Thai Pad (1 ea)",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "UFC泰式设计垫背，承受更激烈的训练课程",
+            "坚固的顶部手柄、可调节的地步皮带。完美捕捉拳击、膝盖、踢腿和肘部"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    }
+]

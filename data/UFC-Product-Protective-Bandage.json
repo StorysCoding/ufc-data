@@ -1,0 +1,16 @@
+﻿[
+    {
+        "id": 10,
+        "mainImg": "/ufc-data/media/images/product/protective/10/1.jpg",
+        "rank": 450,
+        "title": "UFC Contender 180\" Hand Wraps",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "UFC“180”（4.5米）手工包装，每个手部都配有初学者拇指",
+            "专注于训练，钩环闭合确保安全且大大增加手部保护"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    }
+]

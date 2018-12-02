@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "rank": 100,
+    "mainImg":"/ufc-data/media/video/product/moment/01_Retail_Clip_Video_MMA_8oz_Sparring_Gloves_Moment.jpg",
+    "url": "/ufc-data/media/video/product/01_Retail_Clip_Video_MMA_8oz_Sparring_Gloves.mp4"
+  },
+  {
+    "id": 2,
+    "rank": 95,
+    "mainImg":"/ufc-data/media/video/product/moment/02_Retail_Clip_Video_5oz_MMA_Gloves_Moment.jpg",
+    "url": "/ufc-data/media/video/product/02_Retail_Clip_Video_5oz_MMA_Gloves.mp4"
+  },
+  {
+    "id": 3,
+    "rank": 90,
+    "mainImg":"/ufc-data/media/video/product/moment/03_Retail_Clip_Video_Hand_Wraps_Moment.jpg",
+    "url": "/ufc-data/media/video/product/03_Retail_Clip_Video_Hand_Wraps.mp4"
+  },
+  {
+    "id": 4,
+    "rank": 85,
+    "mainImg":"/ufc-data/media/video/product/moment/04_Retail_Clip_Video_UFC_Official_Gloves_Moment.jpg",
+    "url": "/ufc-data/media/video/product/04_Retail_Clip_Video_UFC_Official_Gloves.mp4"
+  },
+  {
+    "id": 5,
+    "rank": 80,
+    "mainImg":"/ufc-data/media/video/product/moment/05_Retail_Clip_Video_MMA_7oz_Grapplin_Gloves_Moment.jpg",
+    "url": "/ufc-data/media/video/product/05_Retail_Clip_Video_MMA_7oz_Grapplin_Gloves.mp4"
+  },
+  {
+    "id": 6,
+    "rank": 75,
+    "mainImg":"/ufc-data/media/video/product/moment/06_Retail_Clip_Video_MMA_6oz_Gloves_Moment.jpg",
+    "url": "/ufc-data/media/video/product/06_Retail_Clip_Video_MMA_6oz_Gloves.mp4"
+  },
+  {
+    "id": 7,
+    "rank": 70,
+    "mainImg":"/ufc-data/media/video/product/moment/07_Retail_Clip_Video_Muay_Thai_Gloves_Moment.jpg",
+    "url": "/ufc-data/media/video/product/07_Retail_Clip_Video_Muay_Thai_Gloves.mp4"
+  },
+  {
+    "id": 8,
+    "rank": 65,
+    "mainImg":"/ufc-data/media/video/product/moment/08_Retail_Clip_Video_Quick_Warp_Inner_Gloves_Moment.jpg.",
+    "url": "/ufc-data/media/video/product/08_Retail_Clip_Video_Quick_Warp_Inner_Gloves.mp4"
+  },
+  {
+    "id": 9,
+    "rank": 60,
+    "mainImg":"/ufc-data/media/video/product/moment/09_Retail_Clip_Video_Open_Palm_MMA_Gloves_Moment.jpg",
+    "url": "/ufc-data/media/video/product/09_Retail_Clip_Video_Open_Palm_MMA_Gloves.mp4"
+  },
+  {
+    "id": 10,
+    "rank": 55,
+    "mainImg":"/ufc-data/media/video/product/moment/10_Retail_Clip_Video_Free_Standing_Bag_Moment.jpg",
+    "url": "/ufc-data/media/video/product/10_Retail_Clip_Video_Free_Standing_Bag.mp4"
+  },
+  {
+    "id": 11,
+    "rank": 50,
+    "mainImg":"/ufc-data/media/video/product/moment/11_Retail_Clip_Video_Free_Speed_Bag_Platform_Moment.jpg",
+    "url": "/ufc-data/media/video/product/11_Retail_Clip_Video_Free_Speed_Bag_Platform.mp4"
+  },
+  {
+    "id": 15,
+    "rank": 45,
+    "mainImg":"/ufc-data/media/video/product/moment/15_Retail_Clip_Video_Single_Station_Bag_Stand_Moment.jpg",
+    "url": "/ufc-data/media/video/product/15_Retail_Clip_Video_Single_Station_Bag_Stand.mp4"
+  },
+  {
+    "id": 16,
+    "rank": 40,
+    "mainImg":"/ufc-data/media/video/product/moment/16_Retail_Clip_Video_Multi_Strike_Shield_Moment.jpg",
+    "url": "/ufc-data/media/video/product/16_Retail_Clip_Video_Multi_Strike_Shield.mp4"
+  },
+  {
+    "id": 17,
+    "rank": 35,
+    "mainImg":"/ufc-data/media/video/product/moment/17_Retail_Clip_Video_Muay_Thai_Pad_Moment.jpg",
+    "url": "/ufc-data/media/video/product/17_Retail_Clip_Video_Muay_Thai_Pad.mp4"
+  },
+  {
+    "id": 18,
+    "rank": 30,
+    "mainImg":"/ufc-data/media/video/product/moment/18_Retail_Clip_Video_Curved_Focus_Mitt_Moment.jpg",
+    "url": "/ufc-data/media/video/product/18_Retail_Clip_Video_Curved_Focus_Mitt.mp4"
+  },
+  {
+    "id": 19,
+    "rank": 25,
+    "mainImg":"/ufc-data/media/video/product/moment/19_Retail_Clip_Video_Long_Curved_Focus_Mitts_Moment.jpg",
+    "url": "/ufc-data/media/video/product/19_Retail_Clip_Video_Long_Curved_Focus_Mitts.mp4"
+  },
+  {
+    "id": 20,
+    "rank": 20,
+    "mainImg":"/ufc-data/media/video/product/moment/20_Retail_Clip_Video_Maya_PU_Speed_Bag_Moment.jpg",
+    "url": "/ufc-data/media/video/product/20_Retail_Clip_Video_Maya_PU_Speed_Bag.mp4"
+  },
+  {
+    "id": 21,
+    "rank": 15,
+    "mainImg":"/ufc-data/media/video/product/moment/21_Retail_Clip_Video_Leather_Speed_Bag_Moment.jpg",
+    "url": "/ufc-data/media/video/product/21_Retail_Clip_Video_Leather_Speed_Bag.mp4"
+  },
+  {
+    "id": 22,
+    "rank": 10,
+    "mainImg":"/ufc-data/media/video/product/moment/22_Retail_Clip_Video_Striking_sticks_Moment.jpg",
+    "url": "/ufc-data/media/video/product/22_Retail_Clip_Video_Striking_sticks.mp4"
+  },
+  {
+    "id": 23,
+    "rank": 5,
+    "mainImg":"/ufc-data/media/video/product/moment/23_Retail_Clip_Video_Synthetic_Leather_Training_Headgear_Moment.jpg",
+    "url": "/ufc-data/media/video/product/23_Retail_Clip_Video_Synthetic_Leather_Training_Headgear.mp4"
+  },
+  {
+    "id": 24,
+    "rank": 4,
+    "mainImg":"/ufc-data/media/video/product/moment/24_Retail_Clip_Video_Double_End_Ball_Moment.jpg",
+    "url": "/ufc-data/media/video/product/24_Retail_Clip_Video_Double_End_Ball.mp4"
+  },
+  {
+    "id": 26,
+    "rank": 3,
+    "mainImg":"/ufc-data/media/video/product/moment/26_Retail_Clip_Video_Standard_Heavy_Bag_Moment.jpg",
+    "url": "/ufc-data/media/video/product/26_Retail_Clip_Video_Standard_Heavy_Bag.mp4"
+  }
+]

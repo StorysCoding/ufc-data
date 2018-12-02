@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "mainImg": "/ufc-data/media/images/product/gloves/1/1.jpg",
+        "rank": 500,
+        "title": "UFC Contender MMA Gloves 5oz",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "开放式的手掌设计，柔软的手指抓捏",
+            "泡沫分层的关节强化，安全环绕的钩环设计"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 2,
+        "mainImg": "/ufc-data/media/images/product/gloves/2/1.jpg",
+        "rank": 450,
+        "title": "UFC Contender MMA Sparing Gloves 8oz",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "1.25mm EVA泡沫保护，冲击分散泡沫延伸和弯曲关节",
+            "额外的拇指垫，舒适的手指隔室"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 3,
+        "mainImg": "/ufc-data/media/images/product/gloves/3/1.jpg",
+        "rank": 445,
+        "title": "UFC Contender MMA training Glove 6oz",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "这只手套的耐用性、保护性和舒适性不仅仅体现在有氧搏击上",
+            "它不会妨碍你的运动范围，完美的MMA健身手套"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 4,
+        "mainImg": "/ufc-data/media/images/product/gloves/4/1.jpg",
+        "rank": 440,
+        "title": "UFC Contender open palm training Gloves",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "开放式手掌设计，提供最佳的灵活性和活动范围",
+            "安全的钩环闭合，耐久的工程合成革"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 5,
+        "mainImg": "/ufc-data/media/images/product/gloves/5/1.jpg",
+        "rank": 435,
+        "title": "UFC Contender gel wrap",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "采用氯丁橡胶凝胶快速包装，舒适的关节去保护",
+            "橡皮网手掌张开，完美坚实的抓地力"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 6,
+        "mainImg": "/ufc-data/media/images/product/gloves/6/1.jpg",
+        "rank": 430,
+        "title": "UFC Contender Muay Thai Style Training Gloves",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "内部手室超强安全性，当然，不牺牲任何舒适性",
+            "力量和技巧的专业训练手套"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 7,
+        "mainImg": "/ufc-data/media/images/product/gloves/7/1.jpg",
+        "rank": 425,
+        "title": "UFC Official Pro Fight Glove",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "UFC官方比赛手套，解刨者却的设计理念，提供完美安全性和最大化舒适度",
+            "高品质的皮革制作，保证舒适的同时提供更多的灵活性和自由性"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 8,
+        "mainImg": "/ufc-data/media/images/product/gloves/8/1.jpg",
+        "rank": 500,
+        "title": "25year",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 9,
+        "mainImg": "/ufc-data/media/images/product/gloves/9/1.jpg",
+        "rank": 455,
+        "title": "UFC Contender MMA 7oz Grappling Glove",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "用开放的手指设计和柔软的合成皮革保持运动的控制和范围",
+            "可调节、安全环绕的钩环闭合支撑手腕",
+            "抓握舒适，耐久",
+            "EVA泡沫保护，皮革抗菌涤纶"
+        ],
+        "colors": "redblack",
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 10,
+        "mainImg": "/ufc-data/media/images/product/protective/10/1.jpg",
+        "rank": 450,
+        "title": "UFC Contender 180\" Hand Wraps",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "UFC“180”（4.5米）手工包装，每个手部都配有初学者拇指",
+            "专注于训练，钩环闭合确保安全且大大增加手部保护"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 11,
+        "mainImg": "/ufc-data/media/images/product/protective/11/1.jpg",
+        "rank": 445,
+        "title": "UFC Contender Long Curved Focus Mitt",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "“1/2”（12毫米）罩在手指上以增加保护，无论踢还是拳",
+            "符合人体工程学设计，快速提升准确性、敏捷性"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 12,
+        "mainImg": "/ufc-data/media/images/product/protective/12/1.jpg",
+        "rank": 440,
+        "title": "UFC Contender Curved Focus Mitt",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "提高精度与速度，半圆抓地力内侧有助于减少伤害",
+            "耐用的PU皮革，紧凑的发展速度和灵敏反应"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 13,
+        "mainImg": "/ufc-data/media/images/product/protective/13/1.jpg",
+        "rank": 435,
+        "title": "Muay Thai Pad (1 ea)",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "UFC泰式设计垫背，承受更激烈的训练课程",
+            "坚固的顶部手柄、可调节的地步皮带。完美捕捉拳击、膝盖、踢腿和肘部"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 14,
+        "mainImg": "/ufc-data/media/images/product/protective/14/1.png",
+        "rank": 430,
+        "title": "SYNTHETIC LEATHER OPEN FACE TRAINING HEADGEAR",
+        "img": "1.png,2.png,3.png,4.png",
+        "features": [
+            "耐磨合成皮革,轻质头盔可有效提升头部摆动轨迹",
+            "内衬采用防滑且透气面料,舒适性更佳",
+            "复合高密度海绵,可有效吸收更强大冲击力",
+            "钩环式魔鬼沾,可快速穿戴"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 15,
+        "mainImg": "/ufc-data/media/images/product/equipment/15/1.jpg",
+        "rank": 425,
+        "title": "Maya Speed Bag",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 16,
+        "mainImg": "/ufc-data/media/images/product/equipment/16/1.jpg",
+        "rank": 420,
+        "title": "UFC Contender Free Standing Bag",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    }
+]

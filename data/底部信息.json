@@ -1,0 +1,66 @@
+﻿[
+    {
+        "id": 1,
+        "label": "商务合作",
+        "child": [
+            {
+                "id": 10,
+                "label": "",
+                "rank": 100,
+                "url": "value"
+            }
+        ],
+        "rank": 100
+    },
+    {
+        "id": 2,
+        "label": "官方赛事/门户网站/BBS",
+        "child": [
+            {
+                "id": 20,
+                "label": "",
+                "rank": 100,
+                "url": "value"
+            }
+        ],
+        "rank": 90
+    },
+    {
+        "id": 3,
+        "label": "Q&A 疑问解答",
+        "child": [
+            {
+                "id": 30,
+                "label": "电商常见问题",
+                "rank": 100,
+                "url": "value"
+            },
+            {
+                "id": 31,
+                "label": "品牌认知",
+                "rank": 90,
+                "url": "value"
+            }
+        ],
+        "rank": 80
+    },
+    {
+        "id": 4,
+        "label": "购买渠道",
+        "child": [
+            {
+                "id": 40,
+                "label": "天猫旗舰店",
+                "rank": 100,
+                "url": "/media/images/tmall-logo.png"
+            },
+            {
+                "id": 41,
+                "label": "京东旗舰店",
+                "rank": 90,
+                "url": "/media/images/jd-logo.png"
+            }
+        ],
+        "rank": 70
+    }
+]

@@ -1,0 +1,50 @@
+﻿[
+    {
+        "id": 1,
+        "mainImg": "/ufc-data/media/html/event/image/1.jpg",
+        "rank": 100,
+        "title": "桑托斯TKO安德斯取2连胜",
+        "sortDesc": "桑托斯在祖国以TKO战胜了美国人安德斯",
+        "url": "/ufc-data/media/html/event/1.html"
+    },
+    {
+        "id": 2,
+        "mainImg": "/ufc-data/media/html/event/image/2.jpg",
+        "rank": 95,
+        "title": "奥林尼克首回合裸绞亨特",
+        "sortDesc": "奥林尼克在首回合以裸绞降服了亨特",
+        "url": "/ufc-data/media/html/event/2.html"
+    },
+    {
+        "id": 3,
+        "mainImg": "/ufc-data/media/html/event/image/3.jpg",
+        "rank": 90,
+        "title": "加瑟基87秒KO维克终结连败",
+        "sortDesc": "加瑟基首回合不到2分钟就KO终结了维克",
+        "url": "/ufc-data/media/html/event/3.html"
+    },
+    {
+        "id": 4,
+        "mainImg": "/ufc-data/media/html/event/image/4.jpg",
+        "rank": 85,
+        "title": "史密斯首回合KO终结胡阿",
+        "sortDesc": "史密斯在首回合KO击败了“将军”胡阿",
+        "url": "/ufc-data/media/html/event/4.html"
+    },
+    {
+        "id": 5,
+        "mainImg": "/ufc-data/media/html/event/image/5.jpg",
+        "rank": 80,
+        "title": "拳法大战桑托斯判定终获胜",
+        "sortDesc": "桑托斯以一致判定击败了首次登陆八角笼的伊万诺夫",
+        "url": "/ufc-data/media/html/event/5.html"
+    },
+    {
+        "id": 6,
+        "mainImg": "/ufc-data/media/html/event/image/6.jpg",
+        "rank": 75,
+        "title": "拳法大战桑托斯判定终获胜",
+        "sortDesc": "桑托斯以一致判定击败了首次登陆八角笼的伊万诺夫",
+        "url": "/ufc-data/media/html/event/6.html"
+    }
+]

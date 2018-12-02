@@ -1,0 +1,127 @@
+﻿[
+    {
+        "id": 1,
+        "mainImg": "/ufc-data/media/images/product/gloves/1/1.jpg",
+        "rank": 500,
+        "title": "UFC Contender MMA Gloves 5oz",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "开放式的手掌设计，柔软的手指抓捏",
+            "泡沫分层的关节强化，安全环绕的钩环设计"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 2,
+        "mainImg": "/ufc-data/media/images/product/gloves/2/1.jpg",
+        "rank": 450,
+        "title": "UFC Contender MMA Sparing Gloves 8oz",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "1.25mm EVA泡沫保护，冲击分散泡沫延伸和弯曲关节",
+            "额外的拇指垫，舒适的手指隔室"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 3,
+        "mainImg": "/ufc-data/media/images/product/gloves/3/1.jpg",
+        "rank": 445,
+        "title": "UFC Contender MMA training Glove 6oz",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "这只手套的耐用性、保护性和舒适性不仅仅体现在有氧搏击上",
+            "它不会妨碍你的运动范围，完美的MMA健身手套"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 4,
+        "mainImg": "/ufc-data/media/images/product/gloves/4/1.jpg",
+        "rank": 440,
+        "title": "UFC Contender open palm training Gloves",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "开放式手掌设计，提供最佳的灵活性和活动范围",
+            "安全的钩环闭合，耐久的工程合成革"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 5,
+        "mainImg": "/ufc-data/media/images/product/gloves/5/1.jpg",
+        "rank": 435,
+        "title": "UFC Contender gel wrap",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "采用氯丁橡胶凝胶快速包装，舒适的关节去保护",
+            "橡皮网手掌张开，完美坚实的抓地力"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 6,
+        "mainImg": "/ufc-data/media/images/product/gloves/6/1.jpg",
+        "rank": 430,
+        "title": "UFC Contender Muay Thai Style Training Gloves",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "内部手室超强安全性，当然，不牺牲任何舒适性",
+            "力量和技巧的专业训练手套"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 7,
+        "mainImg": "/ufc-data/media/images/product/gloves/7/1.jpg",
+        "rank": 425,
+        "title": "UFC Official Pro Fight Glove",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [
+            "UFC官方比赛手套，解刨者却的设计理念，提供完美安全性和最大化舒适度",
+            "高品质的皮革制作，保证舒适的同时提供更多的灵活性和自由性"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 7,
+        "mainImg": "/ufc-data/media/images/product/gloves/8/1.jpg",
+        "rank": 500,
+        "title": "25year",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 9,
+        "mainImg": "/ufc-data/media/images/product/gloves/9/1.png",
+        "rank": 455,
+        "title": "UFC Contender MMA 7oz Grappling Glove",
+        "img": "1.png,2.png,3.png,4.png",
+        "features": [
+            "用开放的手指设计和柔软的合成皮革保持运动的控制和范围",
+            "可调节、安全环绕的钩环闭合支撑手腕",
+            "抓握舒适，耐久",
+            "EVA泡沫保护，皮革抗菌涤纶"
+        ],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    }
+]

@@ -1,0 +1,22 @@
+[{
+        "id": 15,
+        "mainImg": "/ufc-data/media/images/product/equipment/15/1.jpg",
+        "rank": 425,
+        "title": "Maya Speed Bag",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    },
+    {
+        "id": 16,
+        "mainImg": "/ufc-data/media/images/product/equipment/16/1.jpg",
+        "rank": 420,
+        "title": "UFC Contender Free Standing Bag",
+        "img": "1.jpg,2.jpg,3.jpg,4.jpg",
+        "features": [],
+        "jingdongUrl": "/ufc-data/media/images/product/jd.png",
+        "tianmaoUrl": "/ufc-data/media/images/product/tmall.png",
+        "remarks": ""
+    }]
