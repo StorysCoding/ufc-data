@@ -1,4 +1,5 @@
 #media/images/product
 *.mp4
 *.avi
+*.flv
 #media/
